@@ -1,0 +1,58 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    font-family: 'Roboto', sans-serif;
+}
+
+.main {
+    width: 457px;
+    height: 138px;
+}
+.container{
+    margin: 4px;
+    background-color: aqua;
+    display: flex;
+    align-items: center;
+}
+
+#mosh{
+    width: 130px;
+    height: 130px;
+}
+
+.text{
+    margin-left: 14px;
+    color: #000000;
+}
+
+#name{
+    font-weight: bold;
+    font-size: 20px;
+    
+}
+#des{
+    margin-top: 14px;
+    margin-bottom: 24px;
+    font-size: 20px;
+}
+
+.last{
+    display: flex;
+    align-items: baseline;   
+    color: #858991;
+    height:18px ;
+    width: fit-content;
+}
+.last > p {
+    margin-left: 14px;
+    margin-right: 24px;
+    font-size: 15px;
+}
+
+i{
+    color: #858991;
+    width: 20px;
+    height: 20px;
+    margin-top: 3px;
+}
+
